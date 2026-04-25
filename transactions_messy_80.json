@@ -1,0 +1,482 @@
+[
+  {
+    "customer_id": 101,
+    "purchase_amount": null,
+    "payment_method": "upi",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 102,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 103,
+    "purchase_amount": 2000,
+    "payment_method": "Cash",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 104,
+    "purchase_amount": 7000,
+    "payment_method": null,
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 305,
+    "purchase_amount": "9000",
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 106,
+    "purchase_amount": null,
+    "payment_method": "Cash",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 107,
+    "purchase_amount": null,
+    "payment_method": null,
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 108,
+    "purchase_amount": 1000,
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 109,
+    "purchase_amount": null,
+    "payment_method": null,
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 110,
+    "purchase_amount": 2000,
+    "payment_method": "Cash",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 111,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 112,
+    "purchase_amount": 2000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 113,
+    "purchase_amount": null,
+    "payment_method": null,
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 114,
+    "purchase_amount": 2000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 115,
+    "purchase_amount": 5000,
+    "payment_method": "UPI",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 116,
+    "purchase_amount": 2000,
+    "payment_method": "UPI",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 117,
+    "purchase_amount": "9000",
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 118,
+    "purchase_amount": 1000,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 119,
+    "purchase_amount": 7000,
+    "payment_method": "Cash",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 120,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 121,
+    "purchase_amount": 7000,
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 122,
+    "purchase_amount": "9000",
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 123,
+    "purchase_amount": null,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 124,
+    "purchase_amount": 5000,
+    "payment_method": null,
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 125,
+    "purchase_amount": 5000,
+    "payment_method": "upi",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 126,
+    "purchase_amount": 7000,
+    "payment_method": "Card",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 127,
+    "purchase_amount": 7000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 128,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 129,
+    "purchase_amount": "9000",
+    "payment_method": "Card",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 130,
+    "purchase_amount": "9000",
+    "payment_method": "upi",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 131,
+    "purchase_amount": null,
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 132,
+    "purchase_amount": 1000,
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 133,
+    "purchase_amount": 5000,
+    "payment_method": "Card",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 134,
+    "purchase_amount": 5000,
+    "payment_method": "Card",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 135,
+    "purchase_amount": 5000,
+    "payment_method": "UPI",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 136,
+    "purchase_amount": null,
+    "payment_method": "Card",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 137,
+    "purchase_amount": "9000",
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 138,
+    "purchase_amount": 5000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 139,
+    "purchase_amount": 7000,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 140,
+    "purchase_amount": 2000,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 141,
+    "purchase_amount": null,
+    "payment_method": "upi",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 142,
+    "purchase_amount": "9000",
+    "payment_method": null,
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 143,
+    "purchase_amount": null,
+    "payment_method": "UPI",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 144,
+    "purchase_amount": 5000,
+    "payment_method": "Card",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 145,
+    "purchase_amount": null,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 146,
+    "purchase_amount": null,
+    "payment_method": "Cash",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 147,
+    "purchase_amount": 2000,
+    "payment_method": "UPI",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 148,
+    "purchase_amount": 1000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 149,
+    "purchase_amount": null,
+    "payment_method": "upi",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 150,
+    "purchase_amount": 2000,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 351,
+    "purchase_amount": 5000,
+    "payment_method": "UPI",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 152,
+    "purchase_amount": 5000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 153,
+    "purchase_amount": null,
+    "payment_method": "Cash",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 154,
+    "purchase_amount": 7000,
+    "payment_method": "upi",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 355,
+    "purchase_amount": 7000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 156,
+    "purchase_amount": 5000,
+    "payment_method": "upi",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 157,
+    "purchase_amount": 5000,
+    "payment_method": null,
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 158,
+    "purchase_amount": 7000,
+    "payment_method": "UPI",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 159,
+    "purchase_amount": 7000,
+    "payment_method": "upi",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 160,
+    "purchase_amount": 2000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 161,
+    "purchase_amount": 7000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 162,
+    "purchase_amount": "9000",
+    "payment_method": "UPI",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 163,
+    "purchase_amount": 5000,
+    "payment_method": null,
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 164,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 365,
+    "purchase_amount": 7000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 166,
+    "purchase_amount": null,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 167,
+    "purchase_amount": 5000,
+    "payment_method": "Cash",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 168,
+    "purchase_amount": null,
+    "payment_method": "UPI",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 169,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 170,
+    "purchase_amount": 1000,
+    "payment_method": "UPI",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 171,
+    "purchase_amount": 5000,
+    "payment_method": "Card",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 372,
+    "purchase_amount": 1000,
+    "payment_method": "Card",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 173,
+    "purchase_amount": 5000,
+    "payment_method": "Cash",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 174,
+    "purchase_amount": 7000,
+    "payment_method": "UPI",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 175,
+    "purchase_amount": 7000,
+    "payment_method": "Card",
+    "transaction_date": "01/02/2024"
+  },
+  {
+    "customer_id": 176,
+    "purchase_amount": 1000,
+    "payment_method": "Cash",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 177,
+    "purchase_amount": "9000",
+    "payment_method": "UPI",
+    "transaction_date": "March 10 2023"
+  },
+  {
+    "customer_id": 178,
+    "purchase_amount": 1000,
+    "payment_method": "Card",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "customer_id": 179,
+    "purchase_amount": 5000,
+    "payment_method": "Card",
+    "transaction_date": "15-03-24"
+  },
+  {
+    "customer_id": 180,
+    "purchase_amount": 7000,
+    "payment_method": "upi",
+    "transaction_date": "15-03-24"
+  }
+]

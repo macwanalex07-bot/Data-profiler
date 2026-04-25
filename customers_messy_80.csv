@@ -1,0 +1,81 @@
+customer_id,name,age,gender,city,join_date
+101,Riya,thirty,F,Surat,15-03-24
+102,,35,,Ahmedabad,15-03-24
+103,Riya,30,M,,10/02/2024
+104,Meena,,M,Ahmedabad,10/02/2024
+105,Meena,35,F,Jaipur,15-03-24
+106,Riya,40,M,Jaipur,10/02/2024
+107,Riya,thirty,M,Delhi,2023-01-10
+108,Riya,,M,,2023-01-10
+109,Neha,35,M,,2023-01-10
+110,Arjun,25,F,Delhi,10/02/2024
+111,Arjun,30,M,Delhi,10/02/2024
+112,,25,F,Surat,15-03-24
+113,Ali,25,,Delhi,2023-01-10
+114,Riya,,F,,March 5 2023
+115,David,35,,Pune,March 5 2023
+116,Ali,40,,Mumbai,March 5 2023
+117,,thirty,,Delhi,15-03-24
+118,Arjun,30,,Delhi,10/02/2024
+119,Sara,thirty,F,Ahmedabad,March 5 2023
+120,Arjun,35,,,2023-01-10
+121,David,40,M,Jaipur,2023-01-10
+122,Sara,thirty,,Surat,March 5 2023
+123,Amit,,F,Delhi,10/02/2024
+124,,35,F,Delhi,March 5 2023
+125,,35,M,Jaipur,15-03-24
+126,Riya,25,,Pune,15-03-24
+127,Rahul,25,,Pune,10/02/2024
+128,David,40,,Mumbai,2023-01-10
+129,John,thirty,F,Delhi,15-03-24
+130,Amit,30,,Rajkot,March 5 2023
+131,,25,,,10/02/2024
+132,Arjun,,,Mumbai,2023-01-10
+133,Riya,,F,Rajkot,March 5 2023
+134,Rahul,35,,Baroda,15-03-24
+135,Sara,25,F,Pune,March 5 2023
+136,Sara,30,F,Baroda,March 5 2023
+137,Ali,30,,Delhi,March 5 2023
+138,,,F,Baroda,2023-01-10
+139,Meena,,,Delhi,March 5 2023
+140,Riya,thirty,M,Pune,2023-01-10
+141,David,,F,Delhi,15-03-24
+142,Meena,30,M,Jaipur,15-03-24
+143,David,40,,Delhi,March 5 2023
+144,Arjun,35,M,Jaipur,15-03-24
+145,,,,Rajkot,2023-01-10
+146,Ali,40,M,Delhi,March 5 2023
+147,,,F,Jaipur,15-03-24
+148,Sara,thirty,M,Rajkot,10/02/2024
+149,Neha,35,M,,2023-01-10
+150,David,40,,Mumbai,15-03-24
+151,Amit,40,M,Delhi,15-03-24
+152,Riya,30,M,Surat,March 5 2023
+153,David,40,F,Ahmedabad,2023-01-10
+154,Amit,,F,Ahmedabad,15-03-24
+155,Rahul,25,,Baroda,March 5 2023
+156,Arjun,35,M,Jaipur,10/02/2024
+157,,,F,Surat,2023-01-10
+158,Riya,40,M,Jaipur,March 5 2023
+159,Neha,thirty,,Rajkot,15-03-24
+160,Rahul,thirty,,Mumbai,2023-01-10
+161,Rahul,25,,Baroda,March 5 2023
+162,Arjun,35,F,Delhi,2023-01-10
+163,Amit,,F,Pune,March 5 2023
+164,David,30,M,Jaipur,10/02/2024
+165,John,thirty,M,,2023-01-10
+166,,thirty,M,Surat,March 5 2023
+167,Amit,,M,Ahmedabad,2023-01-10
+168,Neha,30,,,15-03-24
+169,Meena,35,,Baroda,March 5 2023
+170,Amit,thirty,F,Mumbai,2023-01-10
+171,,thirty,F,Delhi,2023-01-10
+172,Ali,30,F,Pune,15-03-24
+173,Sara,thirty,F,Pune,March 5 2023
+174,Arjun,thirty,M,Delhi,15-03-24
+175,Riya,,F,,15-03-24
+176,Riya,35,M,Rajkot,March 5 2023
+177,Meena,,M,Jaipur,March 5 2023
+178,Neha,25,F,Pune,10/02/2024
+179,Arjun,,M,Mumbai,2023-01-10
+180,John,30,F,Baroda,15-03-24

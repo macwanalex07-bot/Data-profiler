@@ -1,0 +1,50 @@
+1. What is Data Analysis?
+
+Data analysis means checking and studying data to find useful information.
+It helps us understand patterns, trends, and problems.
+We collect data, clean it, and then analyze it using tools.
+It is used in business, healthcare, and many other fields.
+The main goal is to make better decisions from data.
+
+2. Steps to Plan a Data Science Project
+
+First, understand the problem clearly.
+Then collect the required data from different sources.
+After that, clean and prepare the data for analysis.
+Next, build a model and test its performance.
+Finally, deploy the model and monitor its results.
+
+3. Machine Learning Problem Statement (Customer Churn)
+
+The goal is to predict if a customer will leave or stay.
+We use past customer data like purchase history and behavior.
+This is a classification problem (churn or not churn).
+The model learns patterns from old data.
+It helps companies keep customers and reduce loss.
+
+4. What are Tensors?
+
+Tensors are like containers to store numbers in different dimensions.
+A single number is a 0D tensor, a list is 1D, and a table is 2D.
+They are used in machine learning and deep learning.
+Tensors are similar to arrays in NumPy.
+They help perform fast mathematical operations.
+
+5. In-depth Explanation of Tensors (with NumPy Example)
+
+A tensor can have multiple dimensions like rows and columns.
+In NumPy, tensors are called arrays.
+Example: A 1D tensor → [1, 2, 3], 2D tensor → [[1,2],[3,4]].
+We can do operations like addition, multiplication easily.
+Tensors are very useful in building ML and AI models.
+
+import numpy as np
+
+# 1D tensor
+a = np.array([1, 2, 3])
+
+# 2D tensor
+b = np.array([[1, 2], [3, 4]])
+
+print(a)
+print(b)
